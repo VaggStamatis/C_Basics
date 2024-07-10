@@ -1,3 +1,8 @@
+/*
+    TOPIC:      C knowledge refreshment
+    CREATOR:    Evangelos Stamatis
+    DATE:       9/7/2024
+*/
 #include <stdio.h>
 
 int main() {
